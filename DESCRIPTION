@@ -19,3 +19,5 @@ Imports:
     pryr,
     methods,
     styler
+URL: https://github.com/moodymudskipper/burglr
+BugReports: https://github.com/moodymudskipper/burglr/issues
